@@ -1,2 +1,2 @@
 # my-img
-## yougou是优购商城的界面图片
+## yougou-img是优购商城的界面图片
